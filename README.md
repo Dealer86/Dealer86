@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  
+  <a href="https://github.com/Dealer86/">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
-  
+  </a>
 </p>
 
 <p align="center">
