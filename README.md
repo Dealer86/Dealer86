@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/adicroitoru/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 
 </p>
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="center">
 <a href=#><img src="snake.svg"></a> 
