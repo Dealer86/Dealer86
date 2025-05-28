@@ -95,7 +95,7 @@
 
 
 <p align="center">
-  <font color="#ADD8E6">I'm enthusiastic about utilizing my skills and expertise to progress in the field of Python Development, while remaining open to learning new things along the way.</font>
+  <font color="#ADD8E6">I ‘m a Full Stack Developer with a passion for programming and a continuous learning mindset. I apply my expertise in building custom applications for diverse clients and am enthusiastic about leveraging my skills to deliver impactful solutions while continuing to grow in my development journey.</font>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
