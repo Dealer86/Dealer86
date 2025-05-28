@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Dealer86/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=JUNIOR%20PYTHON%20PHP%20DEVELOPER%20;PROGRAMMER%20;ALWAYS%20LEARNING%20AND%20IMPROVING;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20PHP%20DEVELOPER%20;PROGRAMMER%20;ALWAYS%20LEARNING%20AND%20IMPROVING;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
