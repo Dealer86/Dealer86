@@ -215,8 +215,8 @@ print(dev.current_focus())
 <td width="50%" align="center">
 <br>
 <br>
-<a href="https://info.arhivadefacturi.ro/" target="_blank">
-    <img src="https://info.arhivadefacturi.ro/LogoColoratMare.png" alt="ArhivaDeFacturi" />
+<a href="https://arhivadefacturi.ro/info/" target="_blank">
+    <img src="https://arhivadefacturi.ro/static/images/logo-info.png" alt="ArhivaDeFacturi" />
 </a>
 
 <br>
