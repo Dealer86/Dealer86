@@ -52,7 +52,7 @@ print(dev.current_focus())
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adicroitor#5450)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-croitor-/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adicroitoru/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cognalo.com)
 
 </div>
 
@@ -232,8 +232,8 @@ print(dev.current_focus())
 🔹 Sistem de raportare avansat  
 🔹 Plăți online cu Netopia  
 
-<a href="https://info.arhivadefacturi.ro/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-20C20E?style=for-the-badge" />
+<a href="https://arhivadefacturi.ro/info/" target="_blank">
+<img src="https://arhivadefacturi.ro/static/images/logo-info.png" />
 </a>
 
 </td>
